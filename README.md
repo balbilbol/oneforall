@@ -44,69 +44,69 @@
 # Useful Website
 
   ### Audio to Text
-      https://veed.io/tools/audio-to-text
+      - https://veed.io/tools/audio-to-text
 
   ### Edit Documents
-      https://pdffiller.com/
+      - https://pdffiller.com/
 
   ### Edit Video
-      https://flixier.com/
+      - https://flixier.com/
 
   ### Password Random Generator
-      https://sinologic.net/proyectos/genpass/
+      - https://sinologic.net/proyectos/genpass/
 
   ### Save Notes Online
-      https://tinyurl.com/shnowcarbon
-      https://tinyurl.com/textdocco   (code name : BCHCHF)
-      https://tinyurl.com/writexocom
-      https://protectedtext.com/      (code name : S1-STIKOM)
-      https://codedpad.com            (code name : BCHCHF)
+      - https://tinyurl.com/shnowcarbon
+      - https://tinyurl.com/textdocco   (code name : BCHCHF)
+      - https://tinyurl.com/writexocom
+      - https://protectedtext.com/      (code name : S1-STIKOM)
+      - https://codedpad.com            (code name : BCHCHF)
      
   ### Screen Recorder
-      https://panopto.com/
-      https://scre.io/
+      - https://panopto.com/
+      - https://scre.io/
 
   ### Share Files
-      https://pixeldrain.com/
-      https://send.cm/
-      https://toffeeshare.com
-      https://gofile.io/
-      https://mediafire.com
-      https://pairdrop.net
+      - https://pixeldrain.com/
+      - https://send.cm/
+      - https://toffeeshare.com
+      - https://gofile.io/
+      - https://mediafire.com
+      - https://pairdrop.net
 
   ### Temporary email
-      https://tempail.com/en
+      - https://tempail.com/en
 
   ### URL Shortener
-      https://home.s.id/
-      https://tinyurl.com
-      https://tiny.cc
+      - https://home.s.id/
+      - https://tinyurl.com
+      - https://tiny.cc
 
   ### Website to Programmers
-      https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+      - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
   
   ### Online YT Downloader
-      https://ytdlp.online/
-      https://y2down.cc        (1080p60 = 1:29:59 || 720p60 = 2:59:59)
-      https://en.savefrom.net
-      https://yt5s.biz/en
-      https://savefrom.fun
-      https://ssyoutube.online/
-      https://ssyoutube.com/
-      https://ssvid.net
-      https://save.tube
+      - https://ytdlp.online/
+      - https://y2down.cc        (1080p60 = 1:29:59 || 720p60 = 2:59:59)
+      - https://en.savefrom.net
+      - https://yt5s.biz/en
+      - https://savefrom.fun
+      - https://ssyoutube.online/
+      - https://ssyoutube.com/
+      - https://ssvid.net
+      - https://save.tube
 
   ### Online ok.ru Downloader
-      https://snap-insta.app/okru-video-downloader/
-      https://whitehattoolbox.com/videodownloader/ok-ru-video-downloader/
-      https://getof.net/en/odnoklassniki-video-downloader/
-      https://snapsave.cc/okru-video-downloader/
-      https://vidburner.com/ok-ru-video-downloader/
+      - https://snap-insta.app/okru-video-downloader/
+      - https://whitehattoolbox.com/videodownloader/ok-ru-video-downloader/
+      - https://getof.net/en/odnoklassniki-video-downloader/
+      - https://snapsave.cc/okru-video-downloader/
+      - https://vidburner.com/ok-ru-video-downloader/
 
   ### Online Dailymotion downloader
-      https://savethevideo.com/dailymotion-downloader
+      - https://savethevideo.com/dailymotion-downloader
 
   ### Football Match Replays
-      https://fullreplays.com/
-      https://allreplays.com/
-      https://fullmatchsports.com/ (*use VPN)
+      - https://fullreplays.com/
+      - https://allreplays.com/
+      - https://fullmatchsports.com/ (*use VPN)
