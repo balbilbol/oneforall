@@ -9,6 +9,11 @@
 
 
 # Don't take it seriously
+- Fearmongering
+- Warmongering
+- Racebait
+- Ragebait
+- clickbait
 - Gimmick
 - Professional Playing Victim
 - Maling Teriak Maling
