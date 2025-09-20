@@ -13,7 +13,7 @@
 - Warmongering
 - Racebait
 - Ragebait
-- clickbait
+- Clickbait
 - Gimmick
 - Professional Playing Victim
 - Maling Teriak Maling
@@ -26,12 +26,12 @@
 - Whataboutism
 - Vicious Circle
 - Selfish/Egois/Narcissist
-- Pura-pura this, pura-pura that
+- Pura-pura this & Pura-pura that
 - Virtue Signaling
 - Double Standard
 - Luxury Belief
 - Kepentingan Agenda/Propaganda
-- intentional out of context
+- Intentional out of context information
 - Tone Policing
 
 # Online Radio
