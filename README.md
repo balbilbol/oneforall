@@ -24,6 +24,7 @@
 - https://onlineradiobox.com/us/977todayshits/?cs=us.977todayshits&played=1
 - https://onlineradiobox.com/us/011fm/?cs=us.011fm&played=1
 - https://onlineradiobox.com/us/krbe/?cs=us.krbe&played=1
+- https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
 - https://onlineradiobox.com/us/armageddeonmusik/?cs=us.armageddeonmusik&played=1
 - https://onlineradiobox.com/us/hot108jamz/?cs=us.hot108jamz&played=1
 - https://onlineradiobox.com/id/trax/?cs=id.trax&played=1
