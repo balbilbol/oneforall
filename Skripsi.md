@@ -1,71 +1,71 @@
 # Notepadely
 
-  https://onecompiler.com/php/42bq7pesj = mengganti code perulangan do while dengan code jenis perulangan yang berbeda dari chatgpt
-  https://onecompiler.com/php/42bxacx2z = 3 itemsets
-  https://onecompiler.com/php/42bgxba2n
-  https://onecompiler.com/php/42bj7jtm4 (all logic code apriori based on my code by chatgpt)
-  https://onecompiler.com/php/42bkxtdhu (combined apriori code with apriori code by chatgpt)
-  https://onecompiler.com/php/42bmnmzwj (final result combined apriori code with apriori code by chatgpt after chat with chatgpt)
-  https://onecompiler.com/php/42bj7vtcs (detail echo)
-  https://onecompiler.com/php/42bm92mcu = use this code to chat with chatgpt
+  - https://onecompiler.com/php/42bq7pesj = mengganti code perulangan do while dengan code jenis perulangan yang berbeda dari chatgpt
+  - https://onecompiler.com/php/42bxacx2z = 3 itemsets
+  - https://onecompiler.com/php/42bgxba2n
+  - https://onecompiler.com/php/42bj7jtm4 (all logic code apriori based on my code by chatgpt)
+  - https://onecompiler.com/php/42bkxtdhu (combined apriori code with apriori code by chatgpt)
+  - https://onecompiler.com/php/42bmnmzwj (final result combined apriori code with apriori code by chatgpt after chat with chatgpt)
+  - https://onecompiler.com/php/42bj7vtcs (detail echo)
+  - https://onecompiler.com/php/42bm92mcu = use this code to chat with chatgpt
 
   ## PHP Full Tutorial
-  https://youtu.be/uUlLAfN3rJc?si=4Tz6NTrcbMquU3kK (Learn OOP PHP - 3 hours)
-  https://youtu.be/yXzWfZ4N4xU?si=uAX4S0zC1HEGn_Js (PHP 7.4 Tutorial)
-  https://youtu.be/t0syDUSbdfE?si=NUF6nmdNeEbzsL0m (PHP Full Course - 7 hours)
-  https://youtu.be/fw5ObX8P6as?si=hBrteCBkhmGxxzWD (PHP Complete Laracast Course)
+  - https://youtu.be/uUlLAfN3rJc?si=4Tz6NTrcbMquU3kK (Learn OOP PHP - 3 hours)
+  - https://youtu.be/yXzWfZ4N4xU?si=uAX4S0zC1HEGn_Js (PHP 7.4 Tutorial)
+  - https://youtu.be/t0syDUSbdfE?si=NUF6nmdNeEbzsL0m (PHP Full Course - 7 hours)
+  - https://youtu.be/fw5ObX8P6as?si=hBrteCBkhmGxxzWD (PHP Complete Laracast Course)
 
 
   ## PHP MySQL GET Data & Loop in Form Select Multiple
-  https://youtu.be/8CJzE1IZlXk?si=GCXwJsz3sUMb0c-6
+  - https://youtu.be/8CJzE1IZlXk?si=GCXwJsz3sUMb0c-6
 
   ## Kata Kunci PHP Native Project
-  https://youtu.be/8Yh7rZaAFEM?si=n-lplaVCdrEDmKCU
-  https://youtu.be/-OoPtlsAKHQ?si=AdqurjUafRV_8oIX
-  https://youtu.be/XcoExuUPEqk?si=vJgOacFIQ5C8E1oU
+  - https://youtu.be/8Yh7rZaAFEM?si=n-lplaVCdrEDmKCU
+  - https://youtu.be/-OoPtlsAKHQ?si=AdqurjUafRV_8oIX
+  - https://youtu.be/XcoExuUPEqk?si=vJgOacFIQ5C8E1oU
 
   ## Tutorial PHP Bootstrap
-  https://youtu.be/1jTT0Yb8_zE?si=3NW59u3lit9licM8
+  - https://youtu.be/1jTT0Yb8_zE?si=3NW59u3lit9licM8
 
   ## CRUD PHP MySQL Bootstrap
-  https://youtu.be/fDntkybfvVA?si=3B6vaxUHNOkOXrxu
+  - https://youtu.be/fDntkybfvVA?si=3B6vaxUHNOkOXrxu
 
   ## CRUD PHP MySQL - Bootstrap DataTables, etc. (comprehensive)
-  https://www.youtube.com/playlist?list=PLmpPnj-rO7zD35KEgCXFHz52DThAoyRjf
+  - https://www.youtube.com/playlist?list=PLmpPnj-rO7zD35KEgCXFHz52DThAoyRjf
 
   ## PHP CRUD - Bootstrap & DataTables
-  https://youtube.com/playlist?list=PL3uuG4lYbnOyccQGREqdmpIQkBqOc6YEJ&si=32dNlbS795mEcxaU
+  - https://youtube.com/playlist?list=PL3uuG4lYbnOyccQGREqdmpIQkBqOc6YEJ&si=32dNlbS795mEcxaU
 
   ## PHP CRUD - Bootstrap, DataTables, Font Awesome
-  https://youtube.com/playlist?list=PLu7x8YhNSS0_GxzDJJMu9aucGuqS00qVR&si=L3utZBTi0AjpJhXX
+  - https://youtube.com/playlist?list=PLu7x8YhNSS0_GxzDJJMu9aucGuqS00qVR&si=L3utZBTi0AjpJhXX
 
   ## PHP CRUD SB Admin 2 cdn
-  https://youtube.com/playlist?list=PLYBbJKYvXA_UXauhPx1Bz_KRI9G3l0MfN&si=a7KoZ4un0e1J2de8
+  - https://youtube.com/playlist?list=PLYBbJKYvXA_UXauhPx1Bz_KRI9G3l0MfN&si=a7KoZ4un0e1J2de8
 
   ## PHP CRUD SB Admin 2 npm
-  https://youtube.com/playlist?list=PLR5xnAxI5K55BhYLWb7CqiL7KGSIEOlxO&si=PFJORS0oYs7WWY-X
+  - https://youtube.com/playlist?list=PLR5xnAxI5K55BhYLWb7CqiL7KGSIEOlxO&si=PFJORS0oYs7WWY-X
 
   ## PHP CRUD SB Admin 2 - Aplikasi Buku Tamu
-  https://youtu.be/uvPmzak1Cao?si=U74gXmIu8IQLdsXV
+  - https://youtu.be/uvPmzak1Cao?si=U74gXmIu8IQLdsXV
   https://youtube.com/playlist?list=PL53uJBBtLf5Ck23b8m5avzk8OzjsBbB7F&si=R8RcVmuFxUpVLZ-y
 
   ## PHP CRUD SB Admin (oleh ibu nurul)
-  https://youtu.be/nHUfYwXyHOE?si=5bUoWv6RN333RIcM
+  - https://youtu.be/nHUfYwXyHOE?si=5bUoWv6RN333RIcM
 
   ## PHP CRUD MySQL Admin LTE
-  https://youtube.com/playlist?list=PLy7XQwTq3Yoly2dR0kF-QMILGFkFZZjZY&si=jYXST9vLJN3JQODD
+  - https://youtube.com/playlist?list=PLy7XQwTq3Yoly2dR0kF-QMILGFkFZZjZY&si=jYXST9vLJN3JQODD
 
   ## PHP CRUD admin template (creative-tim.com)
-  https://youtube.com/playlist?list=PL-yqLOopTOSd3s7wkEcXvCXmK0bY45kAf&si=oLrhGGEf6MQT_50c
-  https://github.com/pustakakoding/aplikasi-crud-php8-mysql8-bootstrap5-jquery
-  https://github.com/herihermwn/php-native-dashboard
-  https://youtu.be/QrtWp5I0IV8?si=R6wVvCo1-a1kBsHi
-  https://youtu.be/hRNDLjn25cQ?si=SnFWJT1HuZ_c4awn
-  https://youtu.be/Id3GIvuKnao?si=Qi_DkMI3hEzHkvwc (file manage system)
-  https://www.tutorialrepublic.com/
-  https://www.tutorialrepublic.com/snippets/gallery.php
-  https://www.tutorialrepublic.com/practice-examples.php
-  https://youtu.be/eZDkSNHaWh8?si=BrDOYyDd3rvu-QiQ = PM Full Course by Google
+  - https://youtube.com/playlist?list=PL-yqLOopTOSd3s7wkEcXvCXmK0bY45kAf&si=oLrhGGEf6MQT_50c
+  - https://github.com/pustakakoding/aplikasi-crud-php8-mysql8-bootstrap5-jquery
+  - https://github.com/herihermwn/php-native-dashboard
+  - https://youtu.be/QrtWp5I0IV8?si=R6wVvCo1-a1kBsHi
+  - https://youtu.be/hRNDLjn25cQ?si=SnFWJT1HuZ_c4awn
+  - https://youtu.be/Id3GIvuKnao?si=Qi_DkMI3hEzHkvwc (file manage system)
+  - https://www.tutorialrepublic.com/
+  - https://www.tutorialrepublic.com/snippets/gallery.php
+  - https://www.tutorialrepublic.com/practice-examples.php
+  - https://youtu.be/eZDkSNHaWh8?si=BrDOYyDd3rvu-QiQ = PM Full Course by Google
 
 # Skripsi
 
