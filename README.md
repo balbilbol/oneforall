@@ -62,6 +62,7 @@
   - https://sinologic.net/proyectos/genpass/
 
   ### Online Notes Editor
+  - https://github.com/balbilbol/oneforall
   - https://vscode.dev/
   - https://tinyurl.com/shnowcarbon
   - https://tinyurl.com/textdocco   (code name : BCHCHF)
