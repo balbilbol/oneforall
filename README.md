@@ -1,4 +1,4 @@
-khjkhj
+
 # Don't take it seriously
 - Gimmick
 - Professional Playing Victim
