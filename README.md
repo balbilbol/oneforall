@@ -108,5 +108,5 @@
 
   ### Football Match Replays
       https://fullreplays.com/
-     https://allreplays.com/
-     https://fullmatchsports.com/ (*use VPN)
+      https://allreplays.com/
+      https://fullmatchsports.com/ (*use VPN)
