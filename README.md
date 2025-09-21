@@ -14,6 +14,8 @@
 - Racebait
 - Ragebait
 - Clickbait
+- Confirmation Bias
+- Selection Bias
 - Gimmick
 - Professional Playing Victim
 - Maling Teriak Maling
@@ -30,6 +32,7 @@
 - Virtue Signaling
 - Double Standard
 - Luxury Belief
+- This Guilt & That Guilt
 - Kepentingan Agenda/Propaganda
 - Intentional out of context information
 - Tone Policing
