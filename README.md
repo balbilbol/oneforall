@@ -87,7 +87,7 @@
   - https://codedpad.com            (code name : BCHCHF)
      
   ### Screen Recorder
-  - https://panopto.com/
+  - https://panopto.com/record/
   - https://scre.io/
 
   ### Share Files
