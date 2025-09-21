@@ -77,7 +77,7 @@
   ### Password Random Generator
   - https://sinologic.net/proyectos/genpass/
 
-  ### Online Notes Editor
+  ### Notes Editor
   - https://github.com/balbilbol/oneforall
   - https://vscode.dev/
   - https://tinyurl.com/shnowcarbon
@@ -109,7 +109,7 @@
   ### Website to Programmers
   - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
   
-  ### Online YT Downloader
+  ### Youtube Downloader
   - https://ytdlp.online/
   - https://y2down.cc        (1080p60 = 1:29:59 || 720p60 = 2:59:59)
   - https://en.savefrom.net
@@ -120,14 +120,14 @@
   - https://ssvid.net
   - https://save.tube
 
-  ### Online ok.ru Downloader
+  ### ok.ru Downloader
   - https://snap-insta.app/okru-video-downloader/
   - https://whitehattoolbox.com/videodownloader/ok-ru-video-downloader/
   - https://getof.net/en/odnoklassniki-video-downloader/
   - https://snapsave.cc/okru-video-downloader/
   - https://vidburner.com/ok-ru-video-downloader/
 
-  ### Online Dailymotion downloader
+  ### Dailymotion downloader
   - https://savethevideo.com/dailymotion-downloader
 
   ### Football Match Replays
