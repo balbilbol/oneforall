@@ -18,6 +18,7 @@
 - Selection Bias
 - Gimmick
 - Professional Playing Victim
+- "Always Our Fault"
 - Maling Teriak Maling
 - Alibi/Excuses
 - Coping So Hard
