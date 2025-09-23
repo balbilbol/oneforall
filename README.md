@@ -41,6 +41,7 @@
 # Online Radio
 - https://onlineradiobox.com/us/011fm/?cs=us.011fm&played=1
 - https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
+- https://onlineradiobox.com/id/endlessforbeacon100/?cs=id.endlessforbeacon100&played=1
 - https://onlineradiobox.com/id/trax/?cs=id.trax&played=1
 - https://onlineradiobox.com/id/globalthrowbackhits/?cs=id.globalthrowbackhits&played=1
 - https://onlineradiobox.com/id/pramborsthrowback/?cs=id.pramborsthrowback&played=1
