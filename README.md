@@ -41,6 +41,7 @@
 # Online Radio
 - https://onlineradiobox.com/id/oo/?cs=id.oo&played=1
 - https://onlineradiobox.com/id/abesjamztoears/?cs=id.abesjamztoears&played=1
+- https://onlineradiobox.com/us/100hitzhothitz/?cs=us.100hitzhothitz&played=1
 - https://onlineradiobox.com/us/011fm/?cs=us.011fm&played=1
 - https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
 - https://onlineradiobox.com/id/hardrockjakarta/?cs=id.hardrockjakarta&played=1
