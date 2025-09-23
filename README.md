@@ -39,26 +39,18 @@
 - Tone Policing
 
 # Online Radio
-- https://onlineradiobox.com/id/dengerin/?cs=id.dengerin&played=1
-- https://onlineradiobox.com/us/977todayshits/?cs=us.977todayshits&played=1
 - https://onlineradiobox.com/us/011fm/?cs=us.011fm&played=1
-- https://onlineradiobox.com/us/krbe/?cs=us.krbe&played=1
 - https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
-- https://onlineradiobox.com/us/armageddeonmusik/?cs=us.armageddeonmusik&played=1
-- https://onlineradiobox.com/us/hot108jamz/?cs=us.hot108jamz&played=1
 - https://onlineradiobox.com/id/trax/?cs=id.trax&played=1
 - https://onlineradiobox.com/id/globalthrowbackhits/?cs=id.globalthrowbackhits&played=1
 - https://onlineradiobox.com/id/pramborsthrowback/?cs=id.pramborsthrowback&played=1
-- https://onlineradiobox.com/ca/alternativexrock/?cs=ca.alternativexrock&played=1
 - https://onlineradiobox.com/id/rockballads/?cs=id.rockballads&played=1
 - https://onlineradiobox.com/ca/ckge/?cs=ca.ckge&played=1
-- https://onlineradiobox.com/uk/radiox/?cs=uk.radiox&played=1
 - https://onlineradiobox.com/us/977alternative/?cs=us.977alternative&played=1
 - https://onlineradiobox.com/cz/alternativetimes/?cs=cz.alternativetimes&played=1
 - https://onlineradiobox.com/us/rock997/?cs=us.rock997&played=1
 - https://onlineradiobox.com/id/mtvrocks/?cs=id.mtvrocks&played=1
 - https://onlineradiobox.com/id/z999/?cs=id.z999&played=1
-- https://onlineradiobox.com/us/wlum/?cs=us.wlum&played=1
 - https://onlineradiobox.com/id/trans7/?cs=id.trans7&played=1
 - https://onlineradiobox.com/id/niki/?cs=id.niki&played=1
 - https://onlineradiobox.com/id/rockrewind/?cs=id.rockrewind&played=1
