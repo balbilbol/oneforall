@@ -77,6 +77,7 @@
   - https://github.com/balbilbol/oneforall
   - https://vscode.dev/
   - https://tinyurl.com/shnowcarbon
+  - https://tinyurl.com/linknotepad
   - https://onlinenotebook.net/QoG3RtYvu6OO9fT
   - https://tinyurl.com/textdocco              (code name : BCHCHF)
   - https://tinyurl.com/writexocom
