@@ -41,6 +41,7 @@
 # Online Radio
 - https://onlineradiobox.com/us/011fm/?cs=us.011fm&played=1
 - https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
+- https://onlineradiobox.com/id/hardrockjakarta/?cs=id.hardrockjakarta&played=1
 - https://onlineradiobox.com/id/endlessforbeacon100/?cs=id.endlessforbeacon100&played=1
 - https://onlineradiobox.com/id/trax/?cs=id.trax&played=1
 - https://onlineradiobox.com/id/globalthrowbackhits/?cs=id.globalthrowbackhits&played=1
@@ -58,7 +59,6 @@
 - https://onlineradiobox.com/us/wzrh/?cs=us.wzrh&played=1
 - https://onlineradiobox.com/us/wbsx/?cs=us.wbsx&played=1
 - https://onlineradiobox.com/id/kisrock/?cs=id.kisrock&played=1
-- https://onlineradiobox.com/id/hardrockjakarta/?cs=id.hardrockjakarta&played=1
 
 # Useful Website
 
