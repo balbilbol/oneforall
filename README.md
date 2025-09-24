@@ -64,6 +64,7 @@
 - https://onlineradiobox.com/id/trans7/?cs=id.trans7&played=1
 - https://onlineradiobox.com/id/niki/?cs=id.niki&played=1
 - https://onlineradiobox.com/id/rockrewind/?cs=id.rockrewind&played=1
+- https://onlineradiobox.com/de/rock2000errock/?cs=de.rock2000errock&played=1
 - https://onlineradiobox.com/de/regenbogenmodernrock/?cs=de.regenbogenmodernrock&played=1
 - https://onlineradiobox.com/us/wzrh/?cs=us.wzrh&played=1
 - https://onlineradiobox.com/us/wbsx/?cs=us.wbsx&played=1
