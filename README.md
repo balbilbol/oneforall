@@ -59,6 +59,7 @@
 - https://onlineradiobox.com/us/rock997/?cs=us.rock997&played=1
 - https://onlineradiobox.com/de/ilovebravotubestars/?cs=de.ilovebravotubestars&played=1
 - https://onlineradiobox.com/us/whffradioalternatechannel/?cs=us.whffradioalternatechannel&played=1
+- https://onlineradiobox.com/at/kronehitalternativerock/?cs=at.kronehitalternativerock&played=1
 - https://onlineradiobox.com/id/mtvrocks/?cs=id.mtvrocks&played=1
 - https://onlineradiobox.com/id/z999/?cs=id.z999&played=1
 - https://onlineradiobox.com/id/trans7/?cs=id.trans7&played=1
