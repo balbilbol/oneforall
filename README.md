@@ -44,6 +44,7 @@
 - https://onlineradiobox.com/uk/capitalfmuk/?cs=uk.capitalfmuk&played=1
 - https://onlineradiobox.com/us/100hitzhothitz/?cs=us.100hitzhothitz&played=1
 - https://onlineradiobox.com/us/011fm/?cs=us.011fm&played=1
+- https://onlineradiobox.com/de/planetcoldplay/?cs=de.planetcoldplay&played=1
 - https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
 - https://onlineradiobox.com/id/hardrockjakarta/?cs=id.hardrockjakarta&played=1
 - https://onlineradiobox.com/id/endlessforbeacon100/?cs=id.endlessforbeacon100&played=1
