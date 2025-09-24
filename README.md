@@ -67,6 +67,7 @@
 - https://onlineradiobox.com/de/rockzone/?cs=de.rockzone&played=1
 - https://onlineradiobox.com/de/bobemo/?cs=de.bobemo&played=1
 - https://onlineradiobox.com/de/regenbogenmodernrock/?cs=de.regenbogenmodernrock&played=1
+- https://onlineradiobox.com/fr/helia100rock/?cs=fr.helia100rock&played=1
 - https://onlineradiobox.com/us/wzrh/?cs=us.wzrh&played=1
 - https://onlineradiobox.com/us/wbsx/?cs=us.wbsx&played=1
 - https://onlineradiobox.com/us/wrwm/?cs=us.wrwm&played=1
