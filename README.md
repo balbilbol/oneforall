@@ -64,6 +64,7 @@
 - https://onlineradiobox.com/us/wzrh/?cs=us.wzrh&played=1
 - https://onlineradiobox.com/us/wbsx/?cs=us.wbsx&played=1
 - https://onlineradiobox.com/us/wrwm/?cs=us.wrwm&played=1
+- https://onlineradiobox.com/us/wedg/?cs=us.wedg&played=1
 - https://onlineradiobox.com/id/kisrock/?cs=id.kisrock&played=1
 - https://onlineradiobox.com/id/rockabe/?cs=id.rockabe&played=1
 
