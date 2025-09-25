@@ -48,9 +48,9 @@
 - https://onlineradiobox.com/id/z999/?cs=id.z999&played=1
 - https://onlineradiobox.com/id/trax/?cs=id.trax&played=1
 - https://onlineradiobox.com/de/planetcoldplay/?cs=de.planetcoldplay&played=1
-- https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
 - https://onlineradiobox.com/id/globalthrowbackhits/?cs=id.globalthrowbackhits&played=1
 - https://onlineradiobox.com/id/pramborsthrowback/?cs=id.pramborsthrowback&played=1
+- https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
 - https://onlineradiobox.com/ca/ckge/?cs=ca.ckge&played=1
 - https://onlineradiobox.com/us/dashalternative/?cs=us.dashalternative&played=1
 - https://onlineradiobox.com/us/977alternative/?cs=us.977alternative&played=1
