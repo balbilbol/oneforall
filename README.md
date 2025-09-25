@@ -96,6 +96,7 @@
   - https://tinyurl.com/writexocom
   - https://tinyurl.com/shnowcarbon
   - https://tinyurl.com/onlinenotebooknet
+  - https://notes.io/
   - https://ctxt.io/
   - https://protectedtext.com/                 (code name : S1-STIKOM)
   - https://codedpad.com                       (code name : BCHCHF)
