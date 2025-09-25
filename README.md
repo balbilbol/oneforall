@@ -52,7 +52,6 @@
 - https://onlineradiobox.com/id/pramborsthrowback/?cs=id.pramborsthrowback&played=1
 - https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
 - https://onlineradiobox.com/ca/ckge/?cs=ca.ckge&played=1
-- https://onlineradiobox.com/us/rock997/?cs=us.rock997&played=1
 - https://onlineradiobox.com/id/mtvrocks/?cs=id.mtvrocks&played=1
 - https://onlineradiobox.com/id/trans7/?cs=id.trans7&played=1
 - https://onlineradiobox.com/id/niki/?cs=id.niki&played=1
