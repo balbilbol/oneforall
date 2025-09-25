@@ -45,10 +45,10 @@
 - https://onlineradiobox.com/us/100hitzhothitz/?cs=us.100hitzhothitz&played=1
 - https://onlineradiobox.com/id/hardrockjakarta/?cs=id.hardrockjakarta&played=1
 - https://onlineradiobox.com/id/endlessforbeacon100/?cs=id.endlessforbeacon100&played=1
-- https://onlineradiobox.com/de/planetcoldplay/?cs=de.planetcoldplay&played=1
-- https://onlineradiobox.com/id/trax/?cs=id.trax&played=1
-- https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
 - https://onlineradiobox.com/id/z999/?cs=id.z999&played=1
+- https://onlineradiobox.com/id/trax/?cs=id.trax&played=1
+- https://onlineradiobox.com/de/planetcoldplay/?cs=de.planetcoldplay&played=1
+- https://onlineradiobox.com/us/powerhitztheplanet/?cs=us.powerhitztheplanet&played=1
 - https://onlineradiobox.com/id/globalthrowbackhits/?cs=id.globalthrowbackhits&played=1
 - https://onlineradiobox.com/id/pramborsthrowback/?cs=id.pramborsthrowback&played=1
 - https://onlineradiobox.com/ca/ckge/?cs=ca.ckge&played=1
