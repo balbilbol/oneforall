@@ -119,7 +119,8 @@
   - https://tempail.com/en
 
   ### URL Shortener
-  - https://home.s.id/
+  - https://t.ly/
+  - https://goto.now/
   - https://tinyurl.com
   - https://tiny.cc
 
