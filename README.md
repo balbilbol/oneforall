@@ -98,6 +98,7 @@
   - https://tinyurl.com/onlinenotebooknet
   - https://ctxt.io/
   - https://notes.io/
+  - https://copypaste.me
   - https://codedpad.com                       (code name : BCHCHF)
   - https://protectedtext.com/                 (code name : S1-STIKOM)
      
