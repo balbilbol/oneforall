@@ -35,6 +35,7 @@
 - Double Standard
 - Luxury Belief
 - This Guilt & That Guilt
+- Echo Chamber
 - Kepentingan Agenda/Propaganda
 - Intentional out of context information
 - Tone Policing
