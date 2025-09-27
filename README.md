@@ -86,7 +86,7 @@
   - https://flixier.com/
 
   ### Password Random Generator
-  - https://passwords-generator.org/
+  - https://passwords-generator.org/online?length=20&numofpasswords=1&lower=true&upper=true&number=true&symbols=true&excludesimilar=true&excludeambiguous=false&customsymbols=&characterstocxclude=+[]&noduplicate=true&beginany=true&beginletter=false&beginnumber=false&endany=true&endletter=false&endNumber=false
 
   ### Notes Editor
   - https://vscode.dev/
