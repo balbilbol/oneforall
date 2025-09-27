@@ -55,7 +55,6 @@
 - https://onlineradiobox.com/id/trans7/?cs=id.trans7&played=1
 - https://onlineradiobox.com/id/niki/?cs=id.niki&played=1
 - https://onlineradiobox.com/id/rockrewind/?cs=id.rockrewind&played=1
-- https://onlineradiobox.com/nz/therockworkout/?cs=nz.therockworkout&played=1
 - https://onlineradiobox.com/ca/punkworld/?cs=ca.punkworld&played=1
 - https://onlineradiobox.com/ae/sportifyrock/?cs=ae.sportifyrock&played=1
 - https://onlineradiobox.com/de/bobcollegerock/?cs=de.bobcollegerock&played=1
