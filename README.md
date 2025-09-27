@@ -96,7 +96,7 @@
   - https://tinyurl.com/textdocco              (code name : BCHCHF)
   - https://tinyurl.com/writexocom
   - https://tinyurl.com/linknotepad
-  - https://tinyurl.com/onlinenotebooknet
+  - https://tinyurl.com/onlinenotebookdotnet
   - https://ctxt.io/
   - https://notes.io/
   - https://copypaste.me
