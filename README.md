@@ -17,7 +17,7 @@
 - Confirmation Bias
 - Selection Bias
 - Gimmick
-- fake it till you make it
+- Fake it till you Make it
 - Professional Playing Victim
 - "It's Not Our Fault"
 - Maling Teriak Maling
