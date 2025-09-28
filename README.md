@@ -108,13 +108,13 @@
   - https://scre.io/
 
   ### Share Files
-  - https://send.cm/
   - https://limewire.com/
   - https://web.localsend.org/
-  - https://toffeeshare.com
   - https://gofile.io/
   - https://mediafire.com
+  - https://send.cm/
   - https://pairdrop.net
+  - https://toffeeshare.com
 
   ### Temporary email
   - https://tempail.com/en
