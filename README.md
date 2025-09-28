@@ -109,9 +109,9 @@
 
   ### Share Files
   - https://limewire.com/
+  - https://mediafire.com
   - https://web.localsend.org/
   - https://gofile.io/
-  - https://mediafire.com
   - https://send.cm/
   - https://pairdrop.net
   - https://toffeeshare.com
