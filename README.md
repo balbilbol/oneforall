@@ -129,10 +129,8 @@
   
   ### Audio/Video Downloader
   - https://ytdlp.online/
-  - https://y2down.cc        (1080p60 = 1:29:59 || 720p60 = 2:59:59)
+  - https://y2down.cc
   - https://en.savefrom.net
-  - https://yt5s.biz/en
-  - https://savefrom.fun
   - https://ssyoutube.online/
   - https://ssyoutube.com/
   - https://ssvid.net
