@@ -110,6 +110,7 @@
   ### Share Files
   - https://pixeldrain.com/
   - https://send.cm/
+  - https://sharedrop.io/
   - https://toffeeshare.com
   - https://gofile.io/
   - https://mediafire.com
