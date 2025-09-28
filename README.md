@@ -108,7 +108,6 @@
   - https://scre.io/
 
   ### Share Files
-  - https://pixeldrain.com/
   - https://send.cm/
   - https://limewire.com/
   - https://web.localsend.org/
