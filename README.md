@@ -91,7 +91,7 @@
   ### Notes Editor
   - https://vscode.dev/
   - https://codespace.app/new
-  - https://tinyurl.com/shnowcarbon
+  - https://tinyurl.com/carbondotnowdotsh
   - https://github.com/balbilbol/oneforall
   - https://tinyurl.com/textdocco              (code name : BCHCHF)
   - https://tinyurl.com/writexocom
