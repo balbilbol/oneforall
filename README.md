@@ -21,6 +21,7 @@
 - Vicious Circle
 - Selfish/Egois/Narcissist
 - Pura-pura this & Pura-pura that
+- Bandwagon Effect
 - Virtue Signaling
 - Double Standard
 - Luxury Belief
