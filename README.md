@@ -1,13 +1,4 @@
 https://kick.com/asmongold/videos/a05b34b3-7e58-42b5-8c25-4847c6a3bcc6
-
-
-
-
-
-
-
-
-
 # Don't take it seriously
 - Fearmongering
 - Warmongering
