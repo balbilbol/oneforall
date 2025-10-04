@@ -1,3 +1,4 @@
+yt-dlp -f 360p https://www.twitch.tv/videos/2582287170
 # Don't take it seriously
 - Fearmongering
 - Warmongering
