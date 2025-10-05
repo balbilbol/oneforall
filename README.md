@@ -16,6 +16,8 @@
 - Coping So Hard
 - Ngeles
 - Childish
+- Denial
+- Gaslight/Yasslighting
 - Projection
 - Pengalihan Isu
 - Whataboutism
