@@ -6,6 +6,7 @@
 - Clickbait
 - Confirmation Bias
 - Selection Bias
+- Emotional Blackmail
 - Gimmick
 - Fake it till you Make it
 - Professional Playing Victim
