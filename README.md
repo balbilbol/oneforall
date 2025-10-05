@@ -17,6 +17,7 @@
 - Ngeles
 - Childish
 - Denial
+- Menghibur Diri
 - Gaslight/Yasslighting
 - Projection
 - Pengalihan Isu
