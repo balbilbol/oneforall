@@ -93,6 +93,7 @@
   - https://tinyurl.com/writexocom
   - https://tinyurl.com/linknotepad
   - https://tinyurl.com/onlinenotebookdotnet
+  - https://pastebin.com/
   - https://ctxt.io/
   - https://onetimesecret.com/
   - https://notes.io/
