@@ -99,6 +99,7 @@ https://justpaste.it/edit/77226325/5mcd5ow3m058p4mo
   - https://kuick.io/text-sharing
   - https://live-clipboard.netlify.app/
   - https://copypaste.me
+  - https://rustpad.io/
   - https://codedpad.com                       (code name : BCHCHF)
   - https://protectedtext.com/                 (code name : S1-STIKOM)
      
