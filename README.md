@@ -1,3 +1,4 @@
+https://justpaste.it/Tq4A6cVszYm7wHdTuB3KxpCr9OflU2nP
 https://justpaste.it/edit/77226325/5mcd5ow3m058p4mo
 # Don't take it seriously
 - Fearmongering
