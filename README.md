@@ -94,6 +94,7 @@
   - https://tinyurl.com/linknotepad
   - https://tinyurl.com/onlinenotebookdotnet
   - https://ctxt.io/
+  - https://onetimesecret.com/
   - https://notes.io/
   - https://scrt.link/
   - https://pastequest.com/
