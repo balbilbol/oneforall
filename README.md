@@ -1,5 +1,3 @@
-https://justpaste.it/Tq4A6cVszYm7wHdTuB3KxpCr9OflU2nP
-https://justpaste.it/edit/77226325/5mcd5ow3m058p4mo
 # Don't take it seriously
 - Fearmongering
 - Warmongering
@@ -90,6 +88,7 @@ https://justpaste.it/edit/77226325/5mcd5ow3m058p4mo
   - https://codespace.app/new
   - https://tinyurl.com/carbondotnowdotsh
   - https://github.com/balbilbol/oneforall
+  - https://justpaste.it/edit/77226325/5mcd5ow3m058p4mo
   - https://tinyurl.com/textdocco              (code name : BCHCHF)
   - https://tinyurl.com/writexocom
   - https://tinyurl.com/linknotepad
