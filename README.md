@@ -97,6 +97,7 @@
   - https://notes.io/
   - https://scrt.link/
   - https://pastequest.com/
+  - https://klipit.in/
   - https://goonlinetools.com/online-notepad/
   - https://kuick.io/text-sharing
   - https://live-clipboard.netlify.app/
