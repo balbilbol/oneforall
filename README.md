@@ -88,8 +88,8 @@
   - https://codespace.app/new
   - https://tinyurl.com/carbondotnowdotsh
   - https://github.com/balbilbol/oneforall
-  - https://justpaste.it/edit/77226325/5mcd5ow3m058p4mo
-  - https://tinyurl.com/textdocco              (code name : BCHCHF)
+  - https://tinyurl.com/justpastedotit & https://justpaste.it/edit/77226325/5mcd5ow3m058p4mo
+  - https://tinyurl.com/textdocco
   - https://tinyurl.com/writexocom
   - https://tinyurl.com/linknotepad
   - https://tinyurl.com/onlinenotebookdotnet
