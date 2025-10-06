@@ -94,6 +94,7 @@
   - https://tinyurl.com/onlinenotebookdotnet
   - https://ctxt.io/
   - https://notes.io/
+  - https://kuick.io/text-sharing
   - https://copypaste.me
   - https://codedpad.com                       (code name : BCHCHF)
   - https://protectedtext.com/                 (code name : S1-STIKOM)
@@ -106,6 +107,7 @@
   - https://limewire.com/
   - https://mediafire.com
   - https://gofile.io/
+  - https://kuick.io/file-sharing
   - https://send.cm/
   - https://web.localsend.org/
   - https://pairdrop.net
@@ -117,6 +119,7 @@
   ### URL Shortener
   - https://t.ly/
   - https://goto.now/
+  - https://kuick.io/url-shortener
   - https://tinyurl.com
   - https://tiny.cc
 
