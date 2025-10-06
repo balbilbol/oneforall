@@ -96,6 +96,7 @@ https://justpaste.it/edit/77226325/5mcd5ow3m058p4mo
   - https://tinyurl.com/onlinenotebookdotnet
   - https://ctxt.io/
   - https://notes.io/
+  - https://scrt.link/
   - https://kuick.io/text-sharing
   - https://live-clipboard.netlify.app/
   - https://copypaste.me
