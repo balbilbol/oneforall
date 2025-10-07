@@ -83,7 +83,7 @@
   ### Password Random Generator
   - https://tinyurl.com/passwords-generatororg
 
-  ### Notes Editor
+  ### Text Editor & Share
   - https://vscode.dev/
   - https://codespace.app/new
   - https://tinyurl.com/carbondotnowdotsh
@@ -93,6 +93,7 @@
   - https://tinyurl.com/writexocom
   - https://tinyurl.com/linknotepad
   - https://tinyurl.com/onlinenotebookdotnet
+  - https://devbeaver.com/paste-and-share-tool
   - https://pastebin.com/
   - https://ctxt.io/
   - https://onetimesecret.com/
