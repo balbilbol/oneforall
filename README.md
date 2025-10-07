@@ -128,7 +128,6 @@
   - https://tempail.com/en
 
   ### URL Shortener
-  - https://goto.now/
   - https://kuick.io/url-shortener
   - https://tinyurl.com
   - https://tiny.cc
