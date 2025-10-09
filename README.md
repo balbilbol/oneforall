@@ -91,7 +91,7 @@
   - https://tinyurl.com/justpastedotit & https://justpaste.it/edit/77226325/5mcd5ow3m058p4mo
   - https://tinyurl.com/textdocco
   - https://tinyurl.com/writexocom
-  - https://tinyurl.com/linknotepad
+  - https://tinyurl.com/notepaddotlink
   - https://tinyurl.com/onlinenotebookdotnet
   - https://pastebin.com/
   - https://ctxt.io/
