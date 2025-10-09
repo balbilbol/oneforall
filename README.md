@@ -93,13 +93,14 @@
   - https://tinyurl.com/writexocom
   - https://tinyurl.com/linknotepad
   - https://tinyurl.com/onlinenotebookdotnet
-  - https://devbeaver.com/paste-and-share-tool
   - https://pastebin.com/
   - https://ctxt.io/
   - https://onetimesecret.com/
   - https://notes.io/
   - https://scrt.link/
   - https://pastequest.com/
+  - https://bestonlinenotepad.com/
+  - https://devbeaver.com/paste-and-share-tool
   - https://klipit.in/
   - https://goonlinetools.com/online-notepad/
   - https://kuick.io/text-sharing
