@@ -103,6 +103,7 @@
   - https://pastequest.com/
   - https://bestonlinenotepad.com/
   - https://devbeaver.com/paste-and-share-tool
+  - https://markdownpaste.com/
   - https://klipit.in/
   - https://goonlinetools.com/online-notepad/
   - https://kuick.io/text-sharing
