@@ -92,6 +92,7 @@
   - https://tinyurl.com/textdocco
   - https://tinyurl.com/writexocom
   - https://tinyurl.com/notepaddotlink
+  - https://tinyurl.com/codetapdotorg
   - https://tinyurl.com/onlinenotebookdotnet
   - https://pastebin.com/
   - https://ctxt.io/
