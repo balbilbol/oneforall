@@ -4,8 +4,7 @@
 - Racebait
 - Ragebait
 - Clickbait
-- Confirmation Bias
-- Selection Bias
+- Cognitive Bias
 - Emotional Blackmail
 - Gimmick
 - Fake it till you Make it
@@ -24,6 +23,7 @@
 - Whataboutism
 - Vicious Circle
 - Selfish/Egois/Narcissist
+- Dunning Kruger Effect
 - Pura-pura this & Pura-pura that
 - Bandwagon Effect
 - Virtue Signaling
