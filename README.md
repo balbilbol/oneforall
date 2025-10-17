@@ -1,4 +1,9 @@
 # Don't take it seriously
+There's 2 kind of people related to how DEI works : Stupid People & Not Stupid People (not always smart)
+for not stupid people, here's how it works. 
+1. They depend on a Problem that they created themselves
+2. after that they offer a solution to open a new job market for themselves & the other
+3. In order to keep the needs for the job, back to 1
 - Fearmongering
 - Warmongering
 - Racebait
