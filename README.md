@@ -4,6 +4,10 @@ for not stupid people, here's how it works.
 1. They depend on a Problem that they created themselves
 2. after that they offer a solution to open a new job market for themselves & the other
 3. In order to keep the needs for the job, back to 1
+
+Tipe-tipe tujuan dari orang kalau mengakui & minta maaf dari perbuatan yang salah terus viral dan tidak bisa didebat lagi :
+1. Minta maaf karena ada yang harus dijaga, seperti karir dan lain-lain
+2. Kalau tidak ada yang harus dijaga = tidak minta maaf (buktinya adalah ketika banyak yang selebrasi ketika terjadi assassination charlie kirk, alih-alih malah playing victim)
 - Fearmongering
 - Warmongering
 - Racebait
