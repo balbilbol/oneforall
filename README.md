@@ -14,6 +14,8 @@
 - Alibi/Excuses
 - Coping So Hard
 - Ngeles
+- Main Aman
+- It's All about Public Optics
 - Childish
 - Denial
 - Menghibur Diri
