@@ -390,26 +390,14 @@
     - Serverless
     - Service Mesh
     - Twelve Factor Apps
-18. s
-    - 
-19. s
-    - 
+18. Real Time Data
+    - Server Sent Events
+    - WebSockets
+    - Long/Short Polling
+19. Scaling Databases
+    - Database Indexes
+    - Sharding Strategies
+    - Data Replication
+    - CAP Theorem
 20. s
     - 
-21. s
-    - 
-22. s
-    - 
-23. s
-    - 
-24. as
-    - 
-25. as
-    - 
-26. as
-    - 
-27. as
-    - 
-28. as
-
-29. a
