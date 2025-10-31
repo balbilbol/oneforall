@@ -38,15 +38,50 @@
    - Rolldown
    - Parcel
 12. Testing
-    - Vitest
-    - Jest
-    - Playwright
-    - Cypress
+     - Vitest
+     - Jest
+     - Playwright
+     - Cypress
 13. Auth Strategies
 14. CI/CD
 15. Web APIs
 16. Web Security
-    - CORS
-    - HTTPS
-    - CSP
-    - OWASP Risks
+     - CORS
+     - HTTPS
+     - CSP
+     - OWASP Risks
+17. SSR
+     - Angular
+     - React
+     - Vue.js
+     - Next.js
+     - Nuxt.js
+     - Tanstack
+     - Svelte Kit
+     - Astro
+     - Svelte
+     - react-router
+18. SSG
+     - Astro
+     - Next.js
+     - Vuepress
+     - Eleventy
+     - Nuxt.js
+19. Typescript
+21. Design System
+22. Deployment
+23. Performance
+     - Lighthouse
+     - DevTools Usage
+     - Service Workers
+     - Cache-Control
+     - Streamed Responses
+24. Accessibility
+25. Web Components
+     - ustom Elements
+     - HTML Templates
+     - Shadow DOM
+26. 
+27. 
+28. 
+29. 
