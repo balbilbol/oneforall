@@ -332,18 +332,58 @@
              - Domain Language
              - Class Variants
              - Layered Architectures
-       4. s
-          - 
-       5. s
-          - 
-       6. s
-          - 
-       7. s
-          - 
-       8. s
-          - 
-       9. s
-          - 
+       4. Design Principle
+          - SOLID
+          - DRY
+          - YAGNI
+          - Law of Demeter
+          - Tell, don't ask
+          - Hollywood Principle
+          - Composition over Inheritance
+          - Encapsulate what varies
+          - Program against abstractions
+       5. Design Patterns
+          - GoF Design Patterns
+          - PoSA Patterns
+       6. Architectural Principles
+          - Component Principles
+          - Policy vs Detail
+          - Coupling and Cohesion
+          - Boundaries
+       7. Architectural Styles
+          1. Messaging
+             - Event-Driven
+             - Publish-Subscribe
+          2. Distributed
+             - Client-Server
+             - Peer-to-Peer
+          3. Structural
+             - Component-Based
+             - Monolithic
+             - Layered
+       8. Architectural Patterns
+          - Domain-Driven Design
+          - Model-View Controller
+          - Microservices
+          - Blackboard Pattern
+          - Microkernel
+          - Serverless Architecture
+          - Message Queues/Streams
+          - Event Sourcing
+          - SOA
+          - CQRS
+       9. Enterprise Patterns
+          - DTOs
+          - Identity Maps
+          - Usecases
+          - Repositories
+          - Mappers
+          - Transaction Script
+          - Commands / Queries
+          - Value Objects
+          - Domain Models
+          - Entities
+          - ORMs
     - Monolith
     - Microservices
     - SOA
