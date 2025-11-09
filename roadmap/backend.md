@@ -33,7 +33,6 @@
    - [https://www.youtube.com/watch?v=WGEy-Bu5Hos]
 17. PHP For Beginners - Complete Laracasts Course
    - [https://www.youtube.com/watch?v=fw5ObX8P6as]
-
 18. sd
 19. sds
 20. ds
@@ -1017,6 +1016,17 @@
 998. v
 999. v
 1000. v
+1001. s
+1002. s
+1003. s
+1004. s
+1005. d
+1006. s
+1007. ssd
+1008. sd
+
+
+
 
 # Original Roadmap from roadmap.sh
 1. Internet
