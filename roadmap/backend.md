@@ -1,38 +1,38 @@
 # My Customize Roadmap
 1. CS50x 2025 - Lecture 0 - Scratch
-   - [https://www.youtube.com/watch?v=2WtPyqwTLKM]
+   - https://www.youtube.com/watch?v=2WtPyqwTLKM
 2. CS50x 2025 - Lecture 1 - C
-   - [https://www.youtube.com/watch?v=89cbCbWrM4U]
+   - https://www.youtube.com/watch?v=89cbCbWrM4U
 3. CS50x 2025 - Lecture 2 - Arrays
-   - [https://www.youtube.com/watch?v=Y8qnryVy5sQ]
+   - https://www.youtube.com/watch?v=Y8qnryVy5sQ
 4. CS50x 2025 - Lecture 3 - Algorithms
-   - [https://www.youtube.com/watch?v=iCx3zwK8Ms8]
+   - https://www.youtube.com/watch?v=iCx3zwK8Ms8
 5. CS50x 2025 - Lecture 4 - Memory
-   - [https://www.youtube.com/watch?v=kcRdFGbzR1I]
+   - https://www.youtube.com/watch?v=kcRdFGbzR1I
 6. CS50x 2025 - Lecture 5 - Data Structures
-   - [https://www.youtube.com/watch?v=aV8LlSmd1E8]
+   - https://www.youtube.com/watch?v=aV8LlSmd1E8
 7. CS50x 2025 - Lecture 6 - Python
-   - [https://www.youtube.com/watch?v=0eNc5lJfZFM]
+   - https://www.youtube.com/watch?v=0eNc5lJfZFM
 8. CS50x 2025 - Artificial Intelligence
-   - [https://www.youtube.com/watch?v=1HuD2ryeOLg]
+   - https://www.youtube.com/watch?v=1HuD2ryeOLg
 9. Harvard CS50’s Intro to Databases with SQL
-   - [https://www.youtube.com/watch?v=WXk7yDqsKxs]
+   - https://www.youtube.com/watch?v=WXk7yDqsKxs
 10. CS50x 2025 - Lecture 7 - SQL
-   - [https://www.youtube.com/watch?v=ZA25WHO62ZA]
+   - https://www.youtube.com/watch?v=ZA25WHO62ZA
 11. CS50x 2025 - Lecture 8 - HTML, CSS, JavaScript
-   - [https://www.youtube.com/watch?v=xiWUL3M9D8c]
+   - https://www.youtube.com/watch?v=xiWUL3M9D8c
 12. CS50x 2025 - Lecture 8 - HTML, CSS, JavaScript
-   - [https://www.youtube.com/watch?v=xiWUL3M9D8c]
+   - https://www.youtube.com/watch?v=xiWUL3M9D8c
 13. Frontend Web Development Course (JavaScript, HTML, CSS)
-   - [https://www.youtube.com/watch?v=zJSY8tbf_ys]
+   - https://www.youtube.com/watch?v=zJSY8tbf_ys
 14. Full HTTP Networking Course – Fetch and REST APIs in JavaScript
-   - [https://www.youtube.com/watch?v=2JYT5f2isg4]
+   - https://www.youtube.com/watch?v=2JYT5f2isg4
 15. CS50x 2025 - Lecture 9 - Flask
-   - [https://www.youtube.com/watch?v=1r-dFbPQ7Z8]
+   - https://www.youtube.com/watch?v=1r-dFbPQ7Z8
 16. CS50x 2025 - The End
-   - [https://www.youtube.com/watch?v=WGEy-Bu5Hos]
+   - https://www.youtube.com/watch?v=WGEy-Bu5Hos
 17. PHP For Beginners - Complete Laracasts Course
-   - [https://www.youtube.com/watch?v=fw5ObX8P6as]
+   - https://www.youtube.com/watch?v=fw5ObX8P6as
 18. sd
 19. sds
 20. ds
