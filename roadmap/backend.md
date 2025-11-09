@@ -11,7 +11,7 @@
 10. CS50x 2025 - Lecture 7 - SQL = https://www.youtube.com/watch?v=ZA25WHO62ZA
 11. CS50x 2025 - Lecture 8 - HTML, CSS, JavaScript = https://www.youtube.com/watch?v=xiWUL3M9D8c
 12. Frontend Web Development Course (JavaScript, HTML, CSS) = https://www.youtube.com/watch?v=zJSY8tbf_ys
-13. APIs for Beginners - How to use an API (Full Course / Tutorial) = https://www.youtube.com/watch?v=WXsD0ZgxjRw & Documentation Official = https://restfulapi.net/
+13. APIs for Beginners - How to use an API (Full Course / Tutorial) = https://www.youtube.com/watch?v=WXsD0ZgxjRw & Official Website of RESTful API = https://restfulapi.net/
 14. Full HTTP Networking Course – Fetch and REST APIs in JavaScript = https://www.youtube.com/watch?v=2JYT5f2isg4
 15. CS50x 2025 - Lecture 9 - Flask = https://www.youtube.com/watch?v=1r-dFbPQ7Z8
 16. CS50x 2025 - The End = https://www.youtube.com/watch?v=WGEy-Bu5Hos
