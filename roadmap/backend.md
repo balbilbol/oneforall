@@ -1,20 +1,36 @@
 # My Customize Roadmap
-1. CS50x 2025 - Lecture 0 - Scratch                                 [https://www.youtube.com/watch?v=2WtPyqwTLKM]
-2. CS50x 2025 - Lecture 1 - C                                       [https://www.youtube.com/watch?v=89cbCbWrM4U]
-3. CS50x 2025 - Lecture 2 - Arrays                                  [https://www.youtube.com/watch?v=Y8qnryVy5sQ]
-4. CS50x 2025 - Lecture 3 - Algorithms                              [https://www.youtube.com/watch?v=iCx3zwK8Ms8]
-5. CS50x 2025 - Lecture 4 - Memory                                  [https://www.youtube.com/watch?v=kcRdFGbzR1I]
-6. CS50x 2025 - Lecture 5 - Data Structures                         [https://www.youtube.com/watch?v=aV8LlSmd1E8]
-7. CS50x 2025 - Lecture 6 - Python                                  [https://www.youtube.com/watch?v=0eNc5lJfZFM]
-8. CS50x 2025 - Artificial Intelligence                             [https://www.youtube.com/watch?v=1HuD2ryeOLg]
-9. Harvard CS50’s Intro to Databases with SQL                       [https://www.youtube.com/watch?v=WXk7yDqsKxs]
-10. CS50x 2025 - Lecture 7 - SQL                                    [https://www.youtube.com/watch?v=ZA25WHO62ZA]
-11. CS50x 2025 - Lecture 8 - HTML, CSS, JavaScript                  [https://www.youtube.com/watch?v=xiWUL3M9D8c]
-12. Frontend Web Development Course (JavaScript, HTML, CSS)         [https://www.youtube.com/watch?v=zJSY8tbf_ys]
-13. Full HTTP Networking Course – Fetch and REST APIs in JavaScript [https://www.youtube.com/watch?v=2JYT5f2isg4]
-14. CS50x 2025 - Lecture 9 - Flask                                  [https://www.youtube.com/watch?v=1r-dFbPQ7Z8]
-15. CS50x 2025 - The End                                            [https://www.youtube.com/watch?v=WGEy-Bu5Hos]
-16. PHP For Beginners - Complete Laracasts Course                   [https://www.youtube.com/watch?v=fw5ObX8P6as]
+1. CS50x 2025 - Lecture 0 - Scratch
+   - [https://www.youtube.com/watch?v=2WtPyqwTLKM]
+2. CS50x 2025 - Lecture 1 - C
+   - [https://www.youtube.com/watch?v=89cbCbWrM4U]
+3. CS50x 2025 - Lecture 2 - Arrays
+   - [https://www.youtube.com/watch?v=Y8qnryVy5sQ]
+4. CS50x 2025 - Lecture 3 - Algorithms
+   - [https://www.youtube.com/watch?v=iCx3zwK8Ms8]
+5. CS50x 2025 - Lecture 4 - Memory
+   - [https://www.youtube.com/watch?v=kcRdFGbzR1I]
+6. CS50x 2025 - Lecture 5 - Data Structures
+   - [https://www.youtube.com/watch?v=aV8LlSmd1E8]
+7. CS50x 2025 - Lecture 6 - Python
+   - [https://www.youtube.com/watch?v=0eNc5lJfZFM]
+8. CS50x 2025 - Artificial Intelligence
+   - [https://www.youtube.com/watch?v=1HuD2ryeOLg]
+9. Harvard CS50’s Intro to Databases with SQL
+   - [https://www.youtube.com/watch?v=WXk7yDqsKxs]
+10. CS50x 2025 - Lecture 7 - SQL
+   - [https://www.youtube.com/watch?v=ZA25WHO62ZA]
+11. CS50x 2025 - Lecture 8 - HTML, CSS, JavaScript
+   - [https://www.youtube.com/watch?v=xiWUL3M9D8c]
+12. Frontend Web Development Course (JavaScript, HTML, CSS)
+   - [https://www.youtube.com/watch?v=zJSY8tbf_ys]
+13. Full HTTP Networking Course – Fetch and REST APIs in JavaScript
+   - [https://www.youtube.com/watch?v=2JYT5f2isg4]
+14. CS50x 2025 - Lecture 9 - Flask
+   - [https://www.youtube.com/watch?v=1r-dFbPQ7Z8]
+15. CS50x 2025 - The End
+   - [https://www.youtube.com/watch?v=WGEy-Bu5Hos]
+16. PHP For Beginners - Complete Laracasts Course
+   - [https://www.youtube.com/watch?v=fw5ObX8P6as]
 
 # Original Roadmap from roadmap.sh
 1. Internet
