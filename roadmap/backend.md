@@ -1,8 +1,6 @@
 # My Customize Roadmap
-1. CS50x 2025 - Lecture 0 - Scratch
-   - https://www.youtube.com/watch?v=2WtPyqwTLKM
-2. CS50x 2025 - Lecture 1 - C
-   - https://www.youtube.com/watch?v=89cbCbWrM4U
+1. CS50x 2025 - Lecture 0 - Scratch = https://www.youtube.com/watch?v=2WtPyqwTLKM
+2. CS50x 2025 - Lecture 1 - C = https://www.youtube.com/watch?v=89cbCbWrM4U
 3. CS50x 2025 - Lecture 2 - Arrays
    - https://www.youtube.com/watch?v=Y8qnryVy5sQ
 4. CS50x 2025 - Lecture 3 - Algorithms
