@@ -10,10 +10,11 @@
 9. Harvard CS50’s Intro to Databases with SQL                       [https://www.youtube.com/watch?v=WXk7yDqsKxs]
 10. CS50x 2025 - Lecture 7 - SQL                                    [https://www.youtube.com/watch?v=ZA25WHO62ZA]
 11. CS50x 2025 - Lecture 8 - HTML, CSS, JavaScript                  [https://www.youtube.com/watch?v=xiWUL3M9D8c]
-12. Full HTTP Networking Course – Fetch and REST APIs in JavaScript [https://www.youtube.com/watch?v=2JYT5f2isg4]
-13. CS50x 2025 - Lecture 9 - Flask                                  [https://www.youtube.com/watch?v=1r-dFbPQ7Z8]
-14. CS50x 2025 - The End                                            [https://www.youtube.com/watch?v=WGEy-Bu5Hos]
-15. PHP For Beginners - Complete Laracasts Course                   [https://www.youtube.com/watch?v=fw5ObX8P6as]
+12. Frontend Web Development Course (JavaScript, HTML, CSS)         [https://www.youtube.com/watch?v=zJSY8tbf_ys]
+13. Full HTTP Networking Course – Fetch and REST APIs in JavaScript [https://www.youtube.com/watch?v=2JYT5f2isg4]
+14. CS50x 2025 - Lecture 9 - Flask                                  [https://www.youtube.com/watch?v=1r-dFbPQ7Z8]
+15. CS50x 2025 - The End                                            [https://www.youtube.com/watch?v=WGEy-Bu5Hos]
+16. PHP For Beginners - Complete Laracasts Course                   [https://www.youtube.com/watch?v=fw5ObX8P6as]
 
 # Original Roadmap from roadmap.sh
 1. Internet
