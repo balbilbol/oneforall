@@ -170,7 +170,5 @@ for not stupid people, here's how it works.
   ### Dailymotion downloader
   - https://savethevideo.com/dailymotion-downloader
 
-  ### Football Match Replays
-  - https://fullreplays.com/
-  - https://allreplays.com/
-  - https://fullmatchsports.com/ (*use VPN)
+  ### VPN in Website
+  - https://cdn.blockaway.net
