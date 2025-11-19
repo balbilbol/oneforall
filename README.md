@@ -170,5 +170,5 @@ for not stupid people, here's how it works.
   ### Dailymotion downloader
   - https://savethevideo.com/dailymotion-downloader
 
-  ### VPN in Website
+  ### VPN
   - https://cdn.blockaway.net
