@@ -69,9 +69,7 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/ae/sportifyrock/?cs=ae.sportifyrock&played=1
 - https://onlineradiobox.com/de/bobcollegerock/?cs=de.bobcollegerock&played=1
 - https://onlineradiobox.com/de/rock2000errock/?cs=de.rock2000errock&played=1
-- https://onlineradiobox.com/de/rockzone/?cs=de.rockzone&played=1
 - https://onlineradiobox.com/de/bobemo/?cs=de.bobemo&played=1
-- https://onlineradiobox.com/de/regenbogenmodernrock/?cs=de.regenbogenmodernrock&played=1
 - https://onlineradiobox.com/fr/helia100rock/?cs=fr.helia100rock&played=1
 - https://onlineradiobox.com/nz/therockduckyeah/?cs=nz.therockduckyeah&played=1
 - https://onlineradiobox.com/us/wdzn/?cs=us.wdzn&played=1
