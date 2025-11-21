@@ -65,14 +65,17 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/id/trans7/?cs=id.trans7&played=1
 - https://onlineradiobox.com/id/niki/?cs=id.niki&played=1
 - https://onlineradiobox.com/id/rockrewind/?cs=id.rockrewind&played=1
+- https://onlineradiobox.com/de/bobska/?cs=de.bobska&played=1
 - https://onlineradiobox.com/ca/punkworld/?cs=ca.punkworld&played=1
 - https://onlineradiobox.com/ae/sportifyrock/?cs=ae.sportifyrock&played=1
 - https://onlineradiobox.com/de/bobcollegerock/?cs=de.bobcollegerock&played=1
 - https://onlineradiobox.com/de/regenbogenmodernrock/?cs=de.regenbogenmodernrock&played=1
 - https://onlineradiobox.com/de/rock2000errock/?cs=de.rock2000errock&played=1
+- https://onlineradiobox.com/de/bob2000errock/?cs=de.bob2000errock&played=1
 - https://onlineradiobox.com/de/bobemo/?cs=de.bobemo&played=1
 - https://onlineradiobox.com/fr/helia100rock/?cs=fr.helia100rock&played=1
 - https://onlineradiobox.com/nz/therockduckyeah/?cs=nz.therockduckyeah&played=1
+- https://onlineradiobox.com/de/bobmetalcore/?cs=de.bobmetalcore&played=1
 - https://onlineradiobox.com/de/regenbogenmetal/?cs=de.regenbogenmetal&played=1
 - https://onlineradiobox.com/us/wdzn/?cs=us.wdzn&played=1
 - https://onlineradiobox.com/us/wzrh/?cs=us.wzrh&played=1
