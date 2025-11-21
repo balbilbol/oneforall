@@ -72,6 +72,7 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/de/regenbogenmodernrock/?cs=de.regenbogenmodernrock&played=1
 - https://onlineradiobox.com/de/rock2000errock/?cs=de.rock2000errock&played=1
 - https://onlineradiobox.com/de/bob2000errock/?cs=de.bob2000errock&played=1
+- https://onlineradiobox.com/de/absolutrock/?cs=de.absolutrock&played=1
 - https://onlineradiobox.com/de/bobemo/?cs=de.bobemo&played=1
 - https://onlineradiobox.com/fr/helia100rock/?cs=fr.helia100rock&played=1
 - https://onlineradiobox.com/nz/therockduckyeah/?cs=nz.therockduckyeah&played=1
