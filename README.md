@@ -69,7 +69,6 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/ca/punkworld/?cs=ca.punkworld&played=1
 - https://onlineradiobox.com/ae/sportifyrock/?cs=ae.sportifyrock&played=1
 - https://onlineradiobox.com/de/bobcollegerock/?cs=de.bobcollegerock&played=1
-- https://onlineradiobox.com/de/regenbogenmodernrock/?cs=de.regenbogenmodernrock&played=1
 - https://onlineradiobox.com/de/rock2000errock/?cs=de.rock2000errock&played=1
 - https://onlineradiobox.com/de/bob2000errock/?cs=de.bob2000errock&played=1
 - https://onlineradiobox.com/de/absolutrock/?cs=de.absolutrock&played=1
