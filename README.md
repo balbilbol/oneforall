@@ -98,6 +98,8 @@ for not stupid people, here's how it works.
 
   ### Edit Video
   - https://flixier.com/
+  - https://invideo.io/tools/video-trimmer/
+  - https://tools.rotato.app/trim
 
   ### Password Random Generator
   - https://tinyurl.com/passwords-generatororg
