@@ -75,10 +75,12 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/de/absolutrock/?cs=de.absolutrock&played=1
 - https://onlineradiobox.com/fr/helia100rock/?cs=fr.helia100rock&played=1
 - https://onlineradiobox.com/nz/therockduckyeah/?cs=nz.therockduckyeah&played=1
-- https://onlineradiobox.com/de/bobemo/?cs=de.bobemo&played=1
 - https://www.jango.com/stations/325972976/tunein
 - https://www.jango.com/stations/402326543/tunein
+- https://onlineradiobox.com/de/bobemo/?cs=de.bobemo&played=1
+- https://www.jango.com/stations/314664515/tunein
 - https://onlineradiobox.com/de/bobmetalcore/?cs=de.bobmetalcore&played=1
+- https://www.jango.com/stations/401908590/tunein
 - https://onlineradiobox.com/de/regenbogenmetal/?cs=de.regenbogenmetal&played=1
 - https://onlineradiobox.com/us/wdzn/?cs=us.wdzn&played=1
 - https://onlineradiobox.com/us/wzrh/?cs=us.wzrh&played=1
