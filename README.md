@@ -92,6 +92,12 @@ for not stupid people, here's how it works.
 
 # Useful Website
 
+  ### Coding Typing Practice
+  - https://terminaltyper.com/
+  - https://www.speedtyper.dev/
+  - https://www.speedcoder.net/lessons/
+  - https://coder-type.vercel.app/
+  
   ### Audio to Text
   - https://veed.io/tools/audio-to-text
 
