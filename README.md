@@ -1,4 +1,4 @@
-# Don't take it seriously
+# IDGAF
 - Fearmongering
 - Warmongering
 - Racebait
@@ -46,6 +46,14 @@ for not stupid people, here's how it works.
 ## Alasan-alasan organisasi/individual yang mau/tidak mau mengakui & minta maaf dari perbuatan yang salah terus viral dan tidak bisa didebat lagi :
 1. ada yang harus dijaga, seperti karir, reputasi, lawsuit, uang, dan lain-lain
 2. Kalau tidak ada yang harus dijaga artinya yang ada malah di double down, contohnya adalah ketika banyak yang selebrasi ketika terjadi assassination charlie kirk, bukannya menyesali malah playing victim
+
+# Berbagai Kemungkinan yang terjadi di Drama Salah yang merasa "disalahkan" atas semua kekalahan yang terjadi
+1. Kemungkinan pihak salah yang memang salah dari awal
+
+2. Kemungkinan pihak Liverpool yang salah
+- Salah sudah berusaha segala cara untuk bisa menyelesaikan masalah secara cepat in private tapi berujung selalu buntu, sehingga salah mau gak mau harus membuka & menjelaskan masalah secara jelas ke public supaya masalah cepat selesai
+
+3. Kemungkinan pihak Salah & Liverpool sama-sama salah
 
 
 # Online Radio
