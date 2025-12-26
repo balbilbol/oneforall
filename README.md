@@ -1,4 +1,4 @@
-# IDGAF
+## IDGAF
 - Fearmongering
 - Warmongering
 - Racebait
@@ -47,7 +47,7 @@ for not stupid people, here's how it works.
 1. ada yang harus dijaga, seperti karir, reputasi, lawsuit, uang, dan lain-lain
 2. Kalau tidak ada yang harus dijaga artinya yang ada malah di double down, contohnya adalah ketika banyak yang selebrasi ketika terjadi assassination charlie kirk, bukannya menyesali malah playing victim
 
-# Berbagai Kemungkinan yang terjadi di Drama Salah yang merasa "disalahkan" atas semua kekalahan yang terjadi
+## Berbagai Kemungkinan yang terjadi di Drama Salah yang merasa "disalahkan" atas semua kekalahan yang terjadi
 1. Kemungkinan pihak salah yang memang salah dari awal
 
 2. Kemungkinan pihak Liverpool yang salah
@@ -56,7 +56,7 @@ for not stupid people, here's how it works.
 3. Kemungkinan pihak Salah & Liverpool sama-sama salah
 
 
-# Online Radio
+## Online Radio
 - https://onlineradiobox.com/id/oo/?cs=id.oo&played=1
 - https://onlineradiobox.com/id/abesjamztoears/?cs=id.abesjamztoears&played=1
 - https://onlineradiobox.com/uk/capitalfmuk/?cs=uk.capitalfmuk&played=1
@@ -98,7 +98,7 @@ for not stupid people, here's how it works.
 - https://onlineradiobox.com/id/kisrock/?cs=id.kisrock&played=1
 - https://onlineradiobox.com/id/rockabe/?cs=id.rockabe&played=1
 
-# Useful Website
+## Useful Website
 
   ### Coding Typing Practice
   - https://terminaltyper.com/
