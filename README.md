@@ -47,6 +47,11 @@ for not stupid people, here's how it works.
 1. ada yang harus dijaga, seperti karir, reputasi, lawsuit, uang, dan lain-lain
 2. Kalau tidak ada yang harus dijaga artinya yang ada malah di double down, contohnya adalah ketika banyak yang selebrasi ketika terjadi assassination charlie kirk, bukannya menyesali malah playing victim
 
+## this are the few reason from gimmick (ex. open debate/insult/labeling) that hasan done for other people or themselves
+- Maintain the current audience
+- reach the new audience that has the same thinking but don't watch hasan yet
+- call they "nazi", "racist", "fascist" to maintain the hatred & justify the violence against them
+
 ## Berbagai Kemungkinan yang terjadi di Drama Salah yang merasa "disalahkan" atas semua kekalahan yang terjadi
 - Kemungkinan pihak salah yang memang salah dari awal
 
