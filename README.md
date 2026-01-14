@@ -4,6 +4,7 @@
 - Racebait
 - Ragebait
 - Clickbait
+- Gotcha
 - Cognitive Bias
 - Emotional Blackmail
 - Gimmick
