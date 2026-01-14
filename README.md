@@ -222,7 +222,7 @@ for not stupid people, here's how it works.
    5. Choose "memcard1.ps2" option (new card that just created)
 
    ### Link Download Games PS2 Directly (.iso/.chd)
-   - [PES 2014 mod to 2026 update players, transfer, etc](https://akirabox.to/Y2xm0DoWamRO/file)
+   - [PES 2014 Original with Camera Ultra Wide](https://www.mediafire.com/file/fixpiyy16tmrlae/PES_2014.7z/file)
    - [Bully versi Bahasa Indonesia](https://drive.usercontent.google.com/download?id=15taR_omZokqlcBzGPHJNEqjDpjvdVk2G&export=download)
    - []()
    - []()
