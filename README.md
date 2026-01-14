@@ -205,7 +205,7 @@ for not stupid people, here's how it works.
 ## Guide to Setup NetherSX2
 [Video Guide to Setup NetherSX2](https://www.youtube.com/watch?v=aUZW4nU3-j0) and this is link to [Download NetherSX2](https://github.com/Trixarian/NetherSX2-patch/releases) & [Download BIOS PS2](https://tinyurl.com/0230a-20080220-175343)
 
-   ### this below is what the mandatory setting that should be applied from the default setting menu
+   ### Mandatory setting that should be applied from the default setting menu
    - Section General
    1. Emulation Screen Orientation = Sensor Based
 
