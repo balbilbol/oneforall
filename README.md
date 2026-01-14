@@ -204,7 +204,7 @@ for not stupid people, here's how it works.
   - https://cdn.blockaway.net
 
 ## Guide to Setup NetherSX2
-[Link Video as Guide to Setup NetherSX2](https://www.youtube.com/watch?v=aUZW4nU3-j0) and this is link to [Download NetherSX2](https://github.com/Trixarian/NetherSX2-patch/releases) & [Download BIOS PS2](https://tinyurl.com/0230a-20080220-175343)
+[Link Video as Guide to Setup NetherSX2](https://www.youtube.com/watch?v=aUZW4nU3-j0) and this is link to [Download NetherSX2](https://github.com/Trixarian/NetherSX2-patch/releases) & [Download BIOS PS2](https://tinyurl.com/0230a)
 
    ### Mandatory setting that should be applied from the default setting menu
    - Section General
@@ -221,7 +221,7 @@ for not stupid people, here's how it works.
    4. Click Card Name (in Memory Card 1 Section)
    5. Choose "memcard1.ps2" option (new card that just created)
 
-   ### Link Download Games PS2 Directly (.iso/.chd)
+   ### Link Download Games PS2 (.iso/.chd)
    - [PES 2014 Original with Camera Ultra Wide](https://www.mediafire.com/file/fixpiyy16tmrlae/PES_2014.7z/file)
    - [Bully versi Bahasa Indonesia](https://drive.usercontent.google.com/download?id=15taR_omZokqlcBzGPHJNEqjDpjvdVk2G&export=download)
    - []()
