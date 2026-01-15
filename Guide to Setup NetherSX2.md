@@ -27,5 +27,4 @@
    - []()
 
    ### Main Formation in PES 2014
-   ![Main Formation in PES 2014](https://ibb.co.com/3YF8M5y8 "Main Formation in PES 2014")
-   [![App Platorm](https://ibb.co.com/3YF8M5y8)](https://www.digitalocean.com/products/app-platform)
+   ![Main Formation in PES 2014](https://ibb.co.com/3YF8M5y8)
