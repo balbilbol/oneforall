@@ -163,7 +163,7 @@ for not stupid people, here's how it works.
   ### Host/Store Image Online (Permanently)
   - https://imgbb.com/
   - https://8upload.com/
-  - https://www.imgbly.com/
+  - https://imgbly.com/
 
   ### Share Files
   - https://limewire.com/
