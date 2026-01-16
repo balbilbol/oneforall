@@ -160,6 +160,10 @@ for not stupid people, here's how it works.
   - https://scre.io/
   - https://panopto.com/record/
 
+  ### Host/Store Image Online (Permanently)
+  - https://imgbb.com/
+  - https://8upload.com/
+
   ### Share Files
   - https://limewire.com/
   - https://mediafire.com
