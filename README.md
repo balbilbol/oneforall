@@ -22,6 +22,7 @@
 - Menghibur Diri
 - Gaslight/Yasslighting
 - Projection
+- Red Herring
 - Pengalihan Isu
 - Whataboutism
 - Vicious Circle
