@@ -1,7 +1,7 @@
   ### Coding Typing Practice
   - https://terminaltyper.com/
-  - https://www.speedtyper.dev/
-  - https://www.speedcoder.net/lessons/
+  - https://speedtyper.dev/
+  - https://speedcoder.net/lessons/
   - https://coder-type.vercel.app/
   
   ### Audio to Text
