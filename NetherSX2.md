@@ -7,15 +7,15 @@
      * Emulation Screen Orientation = Sensor Based
 
    - Section Graphics
-   * GPU Renderer = Vulkan
-   * Aspect Ratio = 16:9
+     * GPU Renderer = Vulkan
+     * Aspect Ratio = 16:9
 
    - Section Memory Cards
-   1. Click Create New Card
-   2. Type "memcard1.ps2" for name
-   3. Click Option "Folder" and Create Button
-   4. Click Card Name (in Memory Card 1 Section)
-   5. Choose "memcard1.ps2" option (new card that just created)
+     1. Click Create New Card
+     2. Type "memcard1.ps2" for name
+     3. Click Option "Folder" and Create Button
+     4. Click Card Name (in Memory Card 1 Section)
+     5. Choose "memcard1.ps2" option (new card that just created)
 
 ## Link Download Games PS2 (.iso/.chd)
 - [PES 2014 (Patch 2025) with Camera Ultra Wide](https://www.mediafire.com/file/hswxl8qtf4m4mze/PPE20SS25P2SEEVV+BY+GSXPC.rar/file?dkey=9sfi6abp7j5&r=741) and this is [My Peak Formation in PES 2014](https://ibb.co.com/6Ry6H99Z)
