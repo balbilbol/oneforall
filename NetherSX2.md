@@ -4,11 +4,11 @@
 
    ### Mandatory setting that should be applied from the default setting menu
    - Section General
-   1. Emulation Screen Orientation = Sensor Based
+   * Emulation Screen Orientation = Sensor Based
 
    - Section Graphics
-   1. GPU Renderer = Vulkan
-   2. Aspect Ratio = 16:9
+   * GPU Renderer = Vulkan
+   * Aspect Ratio = 16:9
 
    - Section Memory Cards
    1. Click Create New Card
