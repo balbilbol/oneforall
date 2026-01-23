@@ -4,7 +4,7 @@
 
    ### Mandatory setting that should be applied from the default setting menu
    - Section General
-   * Emulation Screen Orientation = Sensor Based
+     * Emulation Screen Orientation = Sensor Based
 
    - Section Graphics
    * GPU Renderer = Vulkan
